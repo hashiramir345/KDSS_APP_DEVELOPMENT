@@ -1,6 +1,6 @@
 # KDSS_APP_DEVELOPMENT
 I Build for KDSS School for Andriod APP. That make sure to work frequently and faster work for Students.
-**MOBILE APPLICATION DEVELOPMENT — PROJECT PROPOSAL**
+# MOBILE APPLICATION DEVELOPMENT — PROJECT PROPOSAL
 **KDSS Kahuta: Official School Management & Parent Portal App
 Submitted By: Muhammad Hashir (BSCS)	Institution: Kahuta Institute of Computer Sciences (KICSIT)
 Target Client: Khudadad Schooling System (KDSS), Kahuta	Reference Portal: https://www.kdsskahuta.com/**
